@@ -41,18 +41,20 @@ Currently venturing into:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanavijesh&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=nandanavijesh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandanavijesh&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanavijesh&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandanavijesh&theme=radical" alt="GitHub Streak" />
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 **Email:** nandanavijesh7@gmail.com
-- 💼 **LinkedIn:** [Nandana Vijesh](https://www.linkedin.com/in/nandana-vijesh-085a29310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:** [Nandana Vijesh](https://www.linkedin.com/in/nandanavijesh-085a29310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
