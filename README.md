@@ -43,24 +43,22 @@ Currently venturing into:
 
 ## 📊 GitHub Stats & Activity
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandanavijesh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="nandanavijesh's GitHub stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanavijesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanavijesh&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanavijesh&theme=radical&hide_border=true" alt="Contribution Graph" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandanavijesh&theme=radical&hide_border=true)
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=nandanavijesh&theme=radical&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=nandanavijesh&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 **Email:** nandanavijesh7@gmail.com
-- 💼 **LinkedIn:** [Nandana Vijesh](https://www.linkedin.com/in/nandanavijesh-085a29310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:** [Nandana Vijesh](https://www.linkedin.com/in/nandana-vijesh-085a29310?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
